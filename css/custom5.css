@@ -7,7 +7,7 @@
 
 .playlist1{
     width: 30%;
-    height: 1000px;
+    height: auto;
     //border: 1px solid red;
     float: right;
 }
